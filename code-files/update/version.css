@@ -14134,4 +14134,52 @@ z-index: 5;
 
 #friends .headerBar-cxbhPD {
   box-shadow: 0 2px 20px rgba(0,0,0,.4);
+}.status-text {
+    opacity:1;
+    color:#fff !important;
+    top:35px;
+    left:400px
+}
+.title-qAcLxz .status.status-streaming, .titleCall-3X0yGQ .status.status-streaming {
+    margin-right: 10px;
+    top:0px;
+}
+.theme-dark .wrapper-uAa07y {
+    border:none;
+    background:rgba(0, 0, 0, .1);
+    width:430px;
+}
+.theme-dark .h5-3KssQU {
+    color:var(--white7)
+}
+.onlineCount-2__VKq, .guildInfo-mu0TQL span {
+    color:var(--white3)
+}
+.content-18hQ5Y button {
+    min-width:100px!important;
+}
+.renamer-modal .modal, .modal, .callout-backdrop {
+    z-index: 1000 !important;   
+}
+.button-1aU9q1:active {
+    background: transparent no-repeat 50% 50%!important;
+    background-size: 18px 18px !important;
+}
+.button-1aU9q1:active[style*="/c7"] {
+    background-image: url(/assets/c7c47afdf35d5a3e06233319d3aa7674.svg)!important;        
+}
+.button-1aU9q1:active[style*="/c8"] {
+    background-image: url(/assets/c8845c514bbf3f1e5bea064c1e40b08d.svg)!important;
+}
+.button-1aU9q1:active[style*="/8"] {
+    background-image: url(/assets/896770bf2d6ed0358ed0adefdbe96a24.svg)!important;
+}
+.button-1aU9q1:active[style*="/4"] {
+    background-image: url(/assets/4bc527c257233fc69b94342d77bcb9ee.svg)!important;
+}
+.theme-dark .activityUserPopout-1nmgaw .headerText-2CVBxK, .theme-dark .activityUserPopout-1nmgaw .content-P9ThHS {
+    color:var(--white8);
+}
+.theme-dark .activityUserPopout-1nmgaw .details-vSFjFG {
+    color:var(--white6);
 }
