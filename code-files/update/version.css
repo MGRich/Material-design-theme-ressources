@@ -14134,7 +14134,8 @@ z-index: 5;
 
 #friends .headerBar-cxbhPD {
   box-shadow: 0 2px 20px rgba(0,0,0,.4);
-}.status-text {
+}
+.status-text {
     opacity:1;
     color:#fff !important;
     top:35px;
